@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:gravity="center"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="This our the below topics to cover"
+        android:gravity="center"/>
+
+    <Button
+        android:id="@+id/imageHandlingButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Image Handling"
+        android:layout_marginTop="10dp"/>
+    <Button
+        android:id="@+id/listHandlingButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="List Handling"
+        android:layout_marginTop="10dp"/>
+
+    <Button
+        android:id="@+id/menuHandlingButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Menu Handling"
+        android:layout_marginTop="10dp"/>
+
+    <Button
+        android:id="@+id/dataPersistanceButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Data Persistance"
+        android:layout_marginTop="10dp"/>
+
+    <Button
+        android:id="@+id/mediaHandlingButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Media and Animations"
+        android:layout_marginTop="10dp"/>
+
+    <Button
+        android:id="@+id/backgroundTaskButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Background Task"
+        android:layout_marginTop="10dp"/>
+
+    <Button
+        android:id="@+id/CameraGesturesButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Camera and Gestures"
+        android:layout_marginTop="10dp"/>
+
+
+</LinearLayout>
