@@ -28,6 +28,10 @@
         <activity android:name=".ListHandlingActivity"/>
         <activity android:name=".RecyclerViewActivity"/>
         <activity android:name=".SpinnerActivity"/>
+        <activity android:name=".OptionsMenuActivity"/>
+        <activity android:name=".ContextMenuActivity"/>
+
+        <activity android:name=".PopupMenuActivity"/>
 
     </application>
 
